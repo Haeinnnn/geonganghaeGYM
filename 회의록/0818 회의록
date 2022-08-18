@@ -1,1 +1,18 @@
-.
+8/11일 목요일 온라인 팀회의 (https://meet.jit.si/)
+
+멘토님의 답변
+1. 바른자세인척 하는 자세가 바른 자세로 분류될 것 같네요.
+2. 머리카락은 신경쓰지 않아도 될 것 같습니다.
+
+각자 데이터가 될 사진을 찍어왔기 때문에 모델을 정함 (구글 드라이브에 업로드)
+-> 포즈 추출 : open_pose_using_template (https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/open_pose_using_template.ipynb)
+-> 분류 - vanilla CNN : template_image_data_vannilla_cnn_classification (https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/template_image_data_vanilla_cnn_classification.ipynb#scrollTo=kNsgn_iUjSrr)
+
+모아온 데이터를 Train과 Test로나누고
+안에 good과 bad로 나눠서 데이터를 분류하게 한다.
+
+최종적으로는 자세를 보여줬을때 나쁜 자세랑 비슷하다면
+확률을 계산해서 자세에 가장 비슷한 병명을 매칭해서 검색하게 해줘야 한다.
+
+내일 예정
+- 각자 모델로 돌린 결과 말하기
