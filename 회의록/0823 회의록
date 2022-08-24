@@ -1,5 +1,101 @@
 8/23일 온라인 회의 (Jitsi)
 
+지금까지 찍은 데이터 한번에 취합
+
+데이터 구성
+SIT 데이터는 다음과 같이 구성됨
+
+SIT/
+    train/
+        GOOD/
+            file1.jpg
+            file2.jpg
+             ...
+        BAD1/ 
+            file21.jpg
+            file22.jpg
+             ...    
+        BAD2/
+            file31.jpg
+            file32.jpg
+             ...
+        BAD3/
+            file41.jpg
+            file42.jpg
+             ...
+
+
+        ...
+    test/
+        GOOD/
+            file1.jpg
+            file2.jpg
+             ...
+        BAD1/ 
+            file21.jpg
+            file22.jpg
+             ...    
+        BAD2/
+            file31.jpg
+            file32.jpg
+             ...
+        BAD3/
+            file41.jpg
+            file42.jpg
+             ...
+
+        ...
+STAND 데이터는 다음과 같이 구성됨
+
+
+
+STAND/
+    TRAIN/
+        GOOD/
+            file1.jpg
+            file2.jpg
+             ...
+        BAD1/ 
+            file21.jpg
+            file22.jpg
+             ...    
+        BAD2/
+            file31.jpg
+            file32.jpg
+             ...
+        BAD3/
+            file41.jpg
+            file42.jpg
+             ...
+        BAD4/
+            file51.jpg
+            file52.jpg
+             ...
+
+        ...
+    TEST/
+        GOOD/
+            file1.jpg
+            file2.jpg
+             ...
+        BAD1/ 
+            file21.jpg
+            file22.jpg
+             ...    
+        BAD2/
+            file31.jpg
+            file32.jpg
+             ...
+        BAD3/
+            file41.jpg
+            file42.jpg
+             ...
+        BAD4/
+            file51.jpg
+            file52.jpg
+             ...     
+
+
 Callback에 모델체크포인트를 섞어서 저장하는 모델 업로드 (8.20 ~ 8.23)
 서로의 코드를 확인했으나 정상적으로 작동하는 코드가 없었음
 
