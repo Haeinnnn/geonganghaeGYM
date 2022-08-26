@@ -14,5 +14,8 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 
 
 [참고 코드]
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://)
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](원하는 주소 입력, 예시:https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/dnn_in_keras.ipynb)
