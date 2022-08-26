@@ -29,7 +29,7 @@ https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2020kics/presentation/
 옵티마이저
 https://light-tree.tistory.com/141
 
-
+코랩연결
 https://hanryang1125.tistory.com/31
 function ClickConnect(){
     console.log("1분마다 코랩 연결 끊김 방지"); 
