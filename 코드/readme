@@ -7,12 +7,12 @@ GYM_v2_5_20220826gn_ori.ipynb 원본 링크↓
 https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=sharing
 
 0826_GYM_v2_5.ipynb
-https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5.ipynb)
 
 0826_GYM_v2_5[except_open_pose].ipynb
-https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5[except_open_pose].ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5[except_open_pose].ipynb)
 
 
 [참고 코드]
-<a href="/dhrim/2022_WISET/blob/main/material/deep_learning/dnn_in_keras.ipynb">dnn_in_keras.ipynb</a>
-<a href="https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/dnn_in_keras.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a>
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](원하는 주소 입력, 예시:https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/dnn_in_keras.ipynb)
