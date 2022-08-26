@@ -7,7 +7,6 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 이미지에서 사람을 인식시킨 뒤 사람만 잘라 새로 저장하기
 
 멘토링 전까지 : 우리 데이터로 각자 stand-bad 폴더 하나씩 맡아서 저장부터 시키기
-다음주 : 저장한폴더를 다시 openpose로 for문을 써서 포즈 학습시키기
 
 ---------------------------------------------------------------
 
@@ -19,3 +18,7 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 적당한 크기인지 아니면 더욱 자르는게 효율적인지.
 4. open포즈로 for문을 돌려 포즈 추출하는것부터 해야하는지,
 cnn으로 사람을 탐지해 자르는 for문을 먼저 돌리는게 맞는지 순서 물어보기.
+
+---------------------------------------------------------------
+
+다음주까지 : 저장한폴더를 다시 openpose로 for문을 써서 포즈 학습시키기
