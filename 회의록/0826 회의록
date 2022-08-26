@@ -4,8 +4,7 @@ for문으로 폴더 단위로 돌아가게 하기
 
 어제 코드를 바탕으로 폴더단위로 처리하게 함
 GYM_v2_5_20220826gn_ori_delete.ipynb
-https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_v2_5_20220826gn_ori_delete.ipynb
-이미지에서 사람을 인식시킨 뒤 사람만 잘라 새로 저장하기
+for문을 써서 이미지에서 사람을 인식시킨 뒤 사람만 잘라 새로 저장하기
 
 멘토링 전까지 : 우리 데이터로 각자 stand-bad 폴더 하나씩 맡아서 저장부터 시키기
 
