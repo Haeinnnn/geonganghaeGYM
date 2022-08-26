@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5.ipynb)
 
 0826_GYM_v2_5[except_open_pose].ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5[except_open_pose].ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5%5Bexcept_open_pose%5D.ipynb)
 
 
 [참고 코드]
