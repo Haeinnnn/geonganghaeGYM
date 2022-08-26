@@ -36,6 +36,6 @@
   
 <table align="left">
   <td>
-    코드/GYM_v2_5_20220826gn_ori_delete.ipynb<a target="_blank" href="https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/tree/main/코드GYM_v2_5_20220826gn_ori_delete.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/></a>
+    코드<a target="_blank" href="https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/tree/main/코드GYM_v2_5_20220826gn_ori_delete.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>GYM_v2_5_20220826gn_ori_delete.ipynb</a>
   </td>
 </table>
