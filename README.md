@@ -33,7 +33,10 @@
   * 백엔드개발, UI개발 : 이가은
   * 전처리 : 김해인
   * 모델제작 : 이혜은
-  
+
+<p>
+* GYM_v2_5_20220826gn_ori_delete.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_v2_5_20220826gn_ori_delete.ipynb)
+ 
 <table align="left">
   <td>
     코드<a target="_blank" href="https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_v2_5_20220826gn_ori_delete.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png"/>GYM_v2_5_20220826gn_ori_delete.ipynb</a>
