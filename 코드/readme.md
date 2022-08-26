@@ -6,16 +6,16 @@
 GYM_v2_5_20220826gn_ori.ipynb 원본 링크↓
 https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=sharing
 
-0826_GYM_v2_5.ipynb
+* 0826_GYM_v2_5.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5.ipynb)
 
-0826_GYM_v2_5[except_open_pose].ipynb
+* 0826_GYM_v2_5[except_open_pose].ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5%5Bexcept_open_pose%5D.ipynb)
 
 
-[참고 코드]
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://)
+<p><p>_____________________
 
+[open in colab 버튼 참고 코드]
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](원하는 주소 입력,
 예시:https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/dnn_in_keras.ipynb)
