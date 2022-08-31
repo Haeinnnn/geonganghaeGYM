@@ -8,19 +8,15 @@ DemoCreator로는 끼워넣기랑 자막넣는것 정도는 할 수 있겠다.
 
 
 openpose에서 각도를 알아내는 코드
-
-- https://www.youtube.com/watch?v=OoNDu9B3CjQ&list=LLMpM7jwStPsrF7s7LeSuxhA&index=1
-- https://github.com/lxaw/PoseAngleEstimation
-- https://www.wenyanet.com/opensource/ko/6114cce81e7105731a0897a4.html
+https://www.youtube.com/watch?v=OoNDu9B3CjQ&list=LLMpM7jwStPsrF7s7LeSuxhA&index=1
+https://github.com/lxaw/PoseAngleEstimation
+https://www.wenyanet.com/opensource/ko/6114cce81e7105731a0897a4.html
 
 셋 다 같은 코드로 붙어있는것만 가능함
 
 아니면 픽값을 뽑아서 하는거라고 하셨으니까
-
-- https://blog.naver.com/PostView.naver?blogId=rheesungjun&logNo=222366320312
-
+https://blog.naver.com/PostView.naver?blogId=rheesungjun&logNo=222366320312
 파이썬으로 x, y만 뽑아서 각도구하기
-
 
 
 현재 우리가 분류하는 질환의 x레이 각도는
@@ -30,8 +26,8 @@ openpose에서 각도를 알아내는 코드
 2. 척추측만증 : 흉추가 40도 보다 크고 요추가 그것보다 작으면 척추측만증으로 분류
 이외의 질환도 찾아보기
 또한 자세 교정 논문 중 거북목이 제일 많은거 같은데, 뚜렷한 특징이 있어 많은걸로 보인다.
- 
- 
+
+
 픽을 뽑아서 그걸로 분류를 시켜보려고 했는데
 지금 상태는 이미지로 학습을 시킨상태기 때문에
 각도를 구하는건 픽값을 통해서 구하는 것인데
