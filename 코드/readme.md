@@ -12,6 +12,9 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 * 0826_GYM_v2_5[except_open_pose].ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/코드/0826_GYM_v2_5%5Bexcept_open_pose%5D.ipynb)
 
+* image_file_comparison.ipynb
+- 파일 이름을 비교하여 해당 파일이 없으면 출력하는 코드 (크롭 전후 비교용)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/image_file_comparison.ipynb)
 
 <p><p>_____________________
 
