@@ -48,3 +48,11 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/open_pose_using_template.ipynb)
  
 <p>
+
+<p>
+ 
+ 
+* STAND0830 분류
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/220830GYM_v3_2.ipynb)
+ 
+<p>
