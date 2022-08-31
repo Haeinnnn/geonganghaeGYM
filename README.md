@@ -53,6 +53,6 @@
  
  
 * STAND0830 분류
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/220830GYM_v3_2.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/220830GYM_v3_2.ipynb)
  
 <p>
