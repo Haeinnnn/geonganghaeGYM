@@ -41,3 +41,10 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_v2_5_20220826gn_ori_delete.ipynb)
  
 <p>
+<p>
+ 
+ 
+* openpose 템플릿
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/open_pose_using_template.ipynb)
+ 
+<p>
