@@ -2,12 +2,12 @@
 
 내용 정리
 
-# 동영상 편집
+# 동영상 편집 #
 DemoCreator로는 끼워넣기랑 자막넣는것 정도는 할 수 있겠다.
 이외에 핸드폰으로 쉽게 영상 만드는법(어르신들용) : https://www.youtube.com/watch?v=V7MFcP7KAWw&ab_channel=%EB%88%84%EB%82%98IT
 
 
-# openpose에서 각도를 알아내는 코드 (셋 다 같은 코드로 붙어있는것만 가능함)
+# openpose에서 각도를 알아내는 코드 (셋 다 같은 코드로 붙어있는것만 가능함) #
 https://www.youtube.com/watch?v=OoNDu9B3CjQ&list=LLMpM7jwStPsrF7s7LeSuxhA&index=1
 https://github.com/lxaw/PoseAngleEstimation
 https://www.wenyanet.com/opensource/ko/6114cce81e7105731a0897a4.html
@@ -17,7 +17,7 @@ https://blog.naver.com/PostView.naver?blogId=rheesungjun&logNo=222366320312
 파이썬으로 x, y만 뽑아서 각도구하기
 
 
-# 현재 우리가 분류하는 질환의 x레이 각도는
+# 현재 우리가 분류하는 질환의 x레이 각도 구하기 #
 정상경추 각도가 30~35도
 정상자세는 경추 30도 흉추 40도 요추 45도
 1. 거북목 : 정상 경추의 각도가 30~35도인데 크면 거북목, 또는 자세가 50미만일시 거북목으로 분류
@@ -26,11 +26,12 @@ https://blog.naver.com/PostView.naver?blogId=rheesungjun&logNo=222366320312
 또한 자세 교정 논문 중 거북목이 제일 많은거 같은데, 뚜렷한 특징이 있어 많은걸로 보인다.
 
 
-# 픽을 뽑아서 그걸로 분류를 시켜보려고 했는데
+# 현재의 문제 #
+픽을 뽑아서 그걸로 분류를 시켜보려고 했는데
 지금 상태는 이미지로 학습을 시킨상태기 때문에
 각도를 구하는건 픽값을 통해서 구하는 것인데
 코드는 알고 있으나 사용법과 어떻게 쓸지를 제대로 모른다
-그래서 관련된 논문을 찾아서 어떻게 하는지 감을 잡기
+그래서 관련된 논문을 찾아서 어떻게 하는지 순서를 공부하기
 
 
 잡담
