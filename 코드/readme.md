@@ -15,6 +15,9 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 * 0831_image_file_comparison.ipynb : 파일 이름을 비교하여 해당 파일이 없으면 출력하는 코드 (크롭 전후 비교용)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/0831_image_file_comparison.ipynb)
 
+* 0905_calculation_angle.ipynb : 자세의 각도 찾기
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/0905_calculation_angle.ipynb)
+
 <p><p>_____________________
 
 [open in colab 버튼 참고 코드]
