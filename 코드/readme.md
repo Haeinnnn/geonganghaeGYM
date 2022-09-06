@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1XJH3TKmVDXxGTobPRyT77mfue5hV0k1H/view?usp=shari
 
 * 0907_Kmeans : kmeans 클러스터링 코드입니다
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/0907_Kmeans.ipynb)
+(https://colab.research.google.com/github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/0907_Kmeans.ipynb)
 
 <p><p>_____________________
 
