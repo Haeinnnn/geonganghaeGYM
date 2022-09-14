@@ -2,14 +2,6 @@
 
 안녕하세요! 팀 건강해GYM입니다.:smiley:
 
-
-### 팀 회의 시간 : 평일 4-5시 (필참)
-
-### 주 1회 오프라인 요일 : 금요일
-
-### 멘토링 : 매주 토요일 11시 30분
-
-
 ## 프로젝트명
 건강해GYM (딥러닝을 통해 자세를 교정시켜주는 운동 영상 추천 프로그램)
 
@@ -27,22 +19,9 @@
 ## 시스템 구성 및 아키텍처
 ![제목 없는 프레젠테이션 (1)](https://user-images.githubusercontent.com/67837142/190217508-29b11648-77e6-45b5-889d-f5aec84fad42.jpg)
 
-#### 이미지 처리(cutting)
-![unnamed](https://user-images.githubusercontent.com/67837142/190217871-3a9c197c-1d5b-4c03-8987-975f79a0128c.png)
-#### 이미지 csv처리
-![unnamed (1)](https://user-images.githubusercontent.com/67837142/190217918-0520a170-3f2a-4424-8377-a668769dc4a3.png)
-
-![unnamed (2)](https://user-images.githubusercontent.com/67837142/190217945-9890da9a-dd32-46f3-a29b-700aab2bff0d.png)
-
-#### kmeans를 이용한 군집 분석을 시행하여 의미 있는 군집도출 가능 여부 확인
-- kmeans sit 분류기준 3 최대 오차율 12% 정답율 88%
-![unnamed (3)](https://user-images.githubusercontent.com/67837142/190218462-848d39bf-e70f-4f2e-922e-405a466efaa2.png)
-
-![unnamed (4)](https://user-images.githubusercontent.com/67837142/190218513-dab2868b-9d9f-4c46-afa1-c6269adc630b.png)
-
-- kmeans stand 최대 오차율 24% 정답율 76%
-![unnamed (5)](https://user-images.githubusercontent.com/67837142/190218646-befde3ac-b262-4a4e-925f-9beaaafd73c8.png)
-![unnamed (6)](https://user-images.githubusercontent.com/67837142/190218670-1fede80f-99ab-492f-bd6a-2b7c7c5b2ad4.png)
+#### 이미지 처리(cutting) 
+* GYM_0914_save.ipynb
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_0914_save.ipynb)
 
 #### 데이터 마이닝
 ![unnamed (7)](https://user-images.githubusercontent.com/67837142/190218706-561f43f6-5e81-4825-a645-70fe6af3a95d.png)
@@ -70,8 +49,6 @@ https://pjreddie.com/darknet/yolo/
 | 팀원 | 이혜은 | https://github.com/thewLHE |
 | 팀원 | 이가은 | https://github.com/chashudong |
 
-# 삭제할지 논의
-
 ## 프로젝트 개발 일정
 
 | 주차 | 날짜 | 개발 내용 |
@@ -81,8 +58,6 @@ https://pjreddie.com/darknet/yolo/
 | 3주차 | ~8/26 | 데이터 분석 |
 | 4주차 | ~9/2 | 딥러닝 학습 및 구현 |
 | 5주차 | ~9/5 | 테스트와 모델 보완 |
-시간이 남으면 Youtube 영상 실시간 추천,
-앱이나 홈페이지 제작을 목표로 한다.
 
 <p>
 
