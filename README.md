@@ -35,10 +35,9 @@
 - 개인의 평소 자세가 어느 정도로 좋고 나쁜지에 대한 객관적 지표를 제시해 주고 올바른 자세로 교정할 수 있는 추천 영상을 뜨게 하여 사용자의 자세를 교정
 - 해당 모델을 개선하면 의료 기관에서 자세 판별 및 질병 예측 용도로 사용 가능
 
-## 기타(출품작에 대한 추가 설명 및 PT 자료 등 첨부 가능)
+## 기타 (참고 사이트)
 
-- YOLO: Real-Time Object Detection
-https://pjreddie.com/darknet/yolo/
+- YOLO: Real-Time Object Detection https://pjreddie.com/darknet/yolo/
 
 ## 팀원 정보 
 
