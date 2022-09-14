@@ -42,12 +42,12 @@ https://pjreddie.com/darknet/yolo/
 
 ## 팀원 정보 
 
-| 구분 | 팀원 | 깃허브 주소 |
-| ---------- | ---------- | ---------- |
-| 팀장 | 김해인 | https://github.com/Haeinnnn |
-| 팀원 | 황서경 | https://github.com/Hwang-sg |
-| 팀원 | 이혜은 | https://github.com/thewLHE |
-| 팀원 | 이가은 | https://github.com/chashudong |
+| 구분 | 팀원 | 이메일 | 깃허브 주소 |
+| ---------- | ---------- | ---------- | ---------- |
+| 팀장 | 김해인 | eeheainee@gmail.com | https://github.com/Haeinnnn |
+| 팀원 | 황서경 | peng5398@gmail.com | https://github.com/Hwang-sg |
+| 팀원 | 이혜은 | heyeun9858@gmail.com | https://github.com/thewLHE |
+| 팀원 | 이가은 | q40028qq@naver.com | https://github.com/chashudong |
 
 ## 프로젝트 개발 일정
 
@@ -58,25 +58,3 @@ https://pjreddie.com/darknet/yolo/
 | 3주차 | ~8/26 | 데이터 분석 |
 | 4주차 | ~9/2 | 딥러닝 학습 및 구현 |
 | 5주차 | ~9/5 | 테스트와 모델 보완 |
-
-<p>
-
-* GYM_v2_5_20220826gn_ori_delete.ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/GYM_v2_5_20220826gn_ori_delete.ipynb)
- 
-<p>
-<p>
- 
- 
-* openpose 템플릿
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/open_pose_using_template.ipynb)
- 
-<p>
-
-<p>
- 
- 
-* STAND0830 분류
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%BD%94%EB%93%9C/220830GYM_v3_2.ipynb)
- 
-<p>
