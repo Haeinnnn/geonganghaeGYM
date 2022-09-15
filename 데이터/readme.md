@@ -17,5 +17,5 @@
 
 - 앉은 잘린이미지 CUT SIT 1500 link : https://drive.google.com/drive/folders/1mBl2qBTOg4e7XMVVynWwQDGAX18MgUDb?usp=sharing
 
-## 예시용으로 넣을 이미지
-- 각 폴더 참조 (각 폴더의 test에서 일부를 가져옴)
+## 예시용으로 넣을 이미지 (다운받은 뒤 아무거나 사용)
+- 각 폴더 참조 (각 폴더의 test에서 일부를 가져옴) : https://drive.google.com/drive/folders/1fsJuZ5w-hhdv_AmxlGcUhUErAAUj4R--?usp=sharing
