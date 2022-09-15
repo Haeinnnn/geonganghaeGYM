@@ -16,6 +16,9 @@
 |  | GPU | NVIDIA GeForce MX450 |
 |  | Language | Python 3.7.13 |
 
+## 시연 영상
+- https://www.youtube.com/watch?v=6UIH4KeQd5U
+
 ## 시스템 구성 및 아키텍처
 ![제목 없는 프레젠테이션 (1)](https://user-images.githubusercontent.com/67837142/190217508-29b11648-77e6-45b5-889d-f5aec84fad42.jpg)
 
