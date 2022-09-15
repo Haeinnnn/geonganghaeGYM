@@ -33,7 +33,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
 #### 모델 실행 코드
-* GYM_0915_Result.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/7939b8e1a21b6b5908bca33d6e9a59e213e44a17/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_Result.ipynb)
+* GYM_0915_Result.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND_Result.ipynb)
 
 
 ## 프로젝트 주요기능
