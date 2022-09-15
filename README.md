@@ -23,7 +23,7 @@
 * GYM_0915_STAND.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
 
 * GYM_0915_SIT.ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
 #### 데이터 마이닝
 ![unnamed (7)](https://user-images.githubusercontent.com/67837142/190218706-561f43f6-5e81-4825-a645-70fe6af3a95d.png)
