@@ -1,10 +1,5 @@
 # 데이터파일
 
-## 링크
-- Stand model download link : https://drive.google.com/file/d/1YPfczNanC2EGR9Ua_sX_VSYnmaMTRx2u/view?usp=sharing
-
-- Sit model download link : https://drive.google.com/file/d/1JgvpW_SKAFjF9tN5-ZC1bBX5BxBQI4bT/view?usp=sharing
-
 ## STAND 이미지폴더
 
 - 선 원본이미지 STAND 1500 link : https://drive.google.com/drive/folders/1YGz7J9x5LE3QKOB6-HJi_--NIH2UxZio?usp=sharing
