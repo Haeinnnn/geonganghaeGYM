@@ -20,8 +20,8 @@
 ![제목 없는 프레젠테이션 (1)](https://user-images.githubusercontent.com/67837142/190217508-29b11648-77e6-45b5-889d-f5aec84fad42.jpg)
 
 #### 이미지 처리(cutting) 및 CNN
-* GYM_0915_STAND.ipynb
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
+* GYM_0915_STAND.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
+
 * GYM_0915_SIT.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
