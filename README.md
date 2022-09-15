@@ -2,6 +2,15 @@
 
 안녕하세요! 팀 건강해GYM입니다.:smiley:
 
+## 팀원 정보 
+
+| 구분 | 팀원 | 이메일 | 깃허브 주소 |
+| ---------- | ---------- | ---------- | ---------- |
+| 팀장 | 김해인 | eeheainee@gmail.com | https://github.com/Haeinnnn |
+| 팀원 | 황서경 | peng5398@gmail.com | https://github.com/Hwang-sg |
+| 팀원 | 이혜은 | heyeun9858@gmail.com | https://github.com/thewLHE |
+| 팀원 | 이가은 | q40028qq@naver.com | https://github.com/chashudong |
+
 ## 프로젝트명
 건강해GYM (딥러닝을 통해 자세를 교정시켜주는 운동 영상 추천 프로그램)
 
@@ -48,15 +57,6 @@
 ## 기타 (참고 사이트)
 
 - YOLO: Real-Time Object Detection https://pjreddie.com/darknet/yolo/
-
-## 팀원 정보 
-
-| 구분 | 팀원 | 이메일 | 깃허브 주소 |
-| ---------- | ---------- | ---------- | ---------- |
-| 팀장 | 김해인 | eeheainee@gmail.com | https://github.com/Haeinnnn |
-| 팀원 | 황서경 | peng5398@gmail.com | https://github.com/Hwang-sg |
-| 팀원 | 이혜은 | heyeun9858@gmail.com | https://github.com/thewLHE |
-| 팀원 | 이가은 | q40028qq@naver.com | https://github.com/chashudong |
 
 ## 프로젝트 개발 일정
 
