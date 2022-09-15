@@ -22,7 +22,7 @@
 #### 이미지 처리(cutting) 및 CNN
 * GYM_0915_STAND.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
-* GYM_0915_STAND.ipynb
+* GYM_0915_SIT.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
 #### 데이터 마이닝
