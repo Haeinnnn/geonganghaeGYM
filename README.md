@@ -33,8 +33,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
 #### 모델 실행 코드
-* GYM_0915_STAND_Result.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND_Result.ipynb)
-
+* GYM_0915_Result.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/415ba942efd843c47f2acabc87bc330d2b9a2671/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_Result.ipynb)
 
 ## 프로젝트 주요기능
 - 사람이 앉거나 서있는 이미지를 통해 자세를 판단 
