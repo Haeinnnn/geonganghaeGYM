@@ -19,3 +19,7 @@
 
 ## 예시용으로 넣을 이미지 (다운받은 뒤 아무거나 사용)
 - 각 폴더 참조 (각 폴더의 test에서 일부를 가져옴) : https://drive.google.com/drive/folders/1_YaskN7jnQeEp_JF-4zsBBn3zjb_K3bV?usp=sharing
+
+## 모델 폴더
+
+- 학습시킨 모델이 들어있는 폴더 : https://drive.google.com/drive/folders/1c3TwztHqCNQwV36WDg4YZdN-Ix5MmIUq?usp=sharing
