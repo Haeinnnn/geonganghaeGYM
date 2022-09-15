@@ -18,7 +18,7 @@
 
 ## 시연 영상
 - https://www.youtube.com/watch?v=6UIH4KeQd5U
-- https://docs.google.com/presentation/d/1kw-WY29uQw59ci8tCeDAAI3PP6RNujON/edit#slide=id.g1585a42f8a1_1_0
+- https://github.com/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EB%AC%B8%EC%84%9C/%EA%B1%B4%EA%B0%95%ED%95%B4GYM_PPT.pptx
 
 ## 시스템 구성 및 아키텍처
 ![제목 없는 프레젠테이션 (1)](https://user-images.githubusercontent.com/67837142/190217508-29b11648-77e6-45b5-889d-f5aec84fad42.jpg)
