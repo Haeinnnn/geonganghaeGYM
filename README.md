@@ -23,14 +23,18 @@
 ## 시스템 구성 및 아키텍처
 ![제목 없는 프레젠테이션 (1)](https://user-images.githubusercontent.com/67837142/190217508-29b11648-77e6-45b5-889d-f5aec84fad42.jpg)
 
+#### 데이터 마이닝
+![unnamed (7)](https://user-images.githubusercontent.com/67837142/190218706-561f43f6-5e81-4825-a645-70fe6af3a95d.png)
+
+## 실행 코드
 #### 이미지 처리(cutting) 및 CNN
 * GYM_0915_STAND.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
-
 * GYM_0915_SIT.ipynb
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_SIT.ipynb)
 
-#### 데이터 마이닝
-![unnamed (7)](https://user-images.githubusercontent.com/67837142/190218706-561f43f6-5e81-4825-a645-70fe6af3a95d.png)
+#### 모델 실행 코드
+* GYM_0915_STAND.ipynb [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Haeinnnn/geonganghaeGYM/blob/main/%EC%99%84%EB%A3%8C%EC%BD%94%EB%93%9C/GYM_0915_STAND.ipynb)
+
 
 ## 프로젝트 주요기능
 - 사람이 앉거나 서있는 이미지를 통해 자세를 판단 
